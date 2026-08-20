@@ -8,3 +8,5 @@
 <img src="ambience.jpg" width="720"/>
 
 - ***Pay attention to the ambience. It never lies.***
+
+<a href="https://" target="_blank"><img src="cybersquatting.jpg" alt=" " width="720"/></a>
